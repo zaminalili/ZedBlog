@@ -1,0 +1,12 @@
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Service\bin\Debug\net6.0\ZedBlog.Service.deps.json
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Service\bin\Debug\net6.0\ZedBlog.Service.dll
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Service\bin\Debug\net6.0\ZedBlog.Service.pdb
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Service\obj\Debug\net6.0\ZedBlog.Service.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Service\obj\Debug\net6.0\ZedBlog.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Service\obj\Debug\net6.0\ZedBlog.Service.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Service\obj\Debug\net6.0\ZedBlog.Service.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Service\obj\Debug\net6.0\ZedBlog.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Service\obj\Debug\net6.0\ZedBlog.Service.dll
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Service\obj\Debug\net6.0\refint\ZedBlog.Service.dll
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Service\obj\Debug\net6.0\ZedBlog.Service.pdb
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Service\obj\Debug\net6.0\ref\ZedBlog.Service.dll

@@ -1,0 +1,17 @@
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Entity\bin\Debug\net6.0\ZedBlog.Entity.deps.json
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Entity\bin\Debug\net6.0\ZedBlog.Entity.runtimeconfig.json
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Entity\bin\Debug\net6.0\ZedBlog.Entity.dll
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Entity\bin\Debug\net6.0\ZedBlog.Entity.pdb
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Entity\bin\Debug\net6.0\ZedBlog.Core.dll
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Entity\bin\Debug\net6.0\ZedBlog.Core.pdb
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Entity\obj\Debug\net6.0\ZedBlog.Entity.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Entity\obj\Debug\net6.0\ZedBlog.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Entity\obj\Debug\net6.0\ZedBlog.Entity.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Entity\obj\Debug\net6.0\ZedBlog.Entity.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Entity\obj\Debug\net6.0\ZedBlog.Entity.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Entity\obj\Debug\net6.0\ZedBlog.Entity.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Entity\obj\Debug\net6.0\ZedBlog.Entity.dll
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Entity\obj\Debug\net6.0\refint\ZedBlog.Entity.dll
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Entity\obj\Debug\net6.0\ZedBlog.Entity.pdb
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Entity\obj\Debug\net6.0\ZedBlog.Entity.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Entity\obj\Debug\net6.0\ref\ZedBlog.Entity.dll
