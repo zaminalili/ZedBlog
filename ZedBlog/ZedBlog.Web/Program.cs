@@ -1,9 +1,14 @@
 using Microsoft.EntityFrameworkCore;
 using ZedBlog.Data.Context;
+using ZedBlog.Data.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+builder.Services.LoadDataLayerExtension(builder.Configuration);
+
+
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
