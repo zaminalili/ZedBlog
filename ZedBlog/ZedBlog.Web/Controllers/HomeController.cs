@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using ZedBlog.Service.Services.Abstracts;
 using ZedBlog.Web.Models;
 
 namespace ZedBlog.Web.Controllers
@@ -7,14 +8,25 @@ namespace ZedBlog.Web.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly IBlogService blogService;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, IBlogService blogService)
         {
             _logger = logger;
+            this.blogService = blogService;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
+            var blogs = await blogService.GetAllBlogsAsync();
+
+            return View(blogs);
+        }
+
+        public IActionResult Test()
+        {
+            //var blogs = await blogService.GetAllBlogsAsync();
+
             return View();
         }
 

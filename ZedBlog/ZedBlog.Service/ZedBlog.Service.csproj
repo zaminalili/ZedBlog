@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ZedBlog.Data\ZedBlog.Data.csproj" />
+  </ItemGroup>
+
 </Project>
