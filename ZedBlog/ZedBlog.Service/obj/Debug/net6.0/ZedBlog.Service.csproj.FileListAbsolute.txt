@@ -10,3 +10,10 @@ C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Service\obj\Debug\net6.0\
 C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Service\obj\Debug\net6.0\refint\ZedBlog.Service.dll
 C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Service\obj\Debug\net6.0\ZedBlog.Service.pdb
 C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Service\obj\Debug\net6.0\ref\ZedBlog.Service.dll
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Service\bin\Debug\net6.0\ZedBlog.Core.dll
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Service\bin\Debug\net6.0\ZedBlog.Data.dll
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Service\bin\Debug\net6.0\ZedBlog.Entity.dll
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Service\bin\Debug\net6.0\ZedBlog.Data.pdb
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Service\bin\Debug\net6.0\ZedBlog.Core.pdb
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Service\bin\Debug\net6.0\ZedBlog.Entity.pdb
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Service\obj\Debug\net6.0\ZedBlog.Service.csproj.CopyComplete

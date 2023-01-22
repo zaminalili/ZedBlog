@@ -12,7 +12,8 @@
           "Microsoft.EntityFrameworkCore.Design": "6.0.13",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.13",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.13",
-          "ZedBlog.Data": "1.0.0"
+          "ZedBlog.Data": "1.0.0",
+          "ZedBlog.Service": "1.0.0"
         },
         "runtime": {
           "ZedBlog.Web.dll": {}
@@ -464,6 +465,14 @@
         "runtime": {
           "ZedBlog.Entity.dll": {}
         }
+      },
+      "ZedBlog.Service/1.0.0": {
+        "dependencies": {
+          "ZedBlog.Data": "1.0.0"
+        },
+        "runtime": {
+          "ZedBlog.Service.dll": {}
+        }
       }
     }
   },
@@ -785,6 +794,11 @@
       "sha512": ""
     },
     "ZedBlog.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZedBlog.Service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

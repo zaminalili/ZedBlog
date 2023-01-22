@@ -1,12 +1,20 @@
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 using ZedBlog.Data.Context;
 using ZedBlog.Data.Extensions;
+using ZedBlog.Data.Repositories;
+using ZedBlog.Entity.Entities;
+using ZedBlog.Service.Extensions;
+using ZedBlog.Service.Services.Abstract;
+using ZedBlog.Service.Services.Concrete;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.LoadDataLayerExtension(builder.Configuration);
+builder.Services.LoadServiceLayerExtension();
+//builder.Services.AddSingleton<IBlogService, BlogService>();
 
 
 builder.Services.AddControllersWithViews();

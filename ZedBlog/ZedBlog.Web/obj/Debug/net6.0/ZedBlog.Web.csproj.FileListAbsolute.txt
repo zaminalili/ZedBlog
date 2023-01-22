@@ -66,3 +66,5 @@ C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Web\bin\Debug\net6.0\ZedB
 C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Web\bin\Debug\net6.0\ZedBlog.Core.pdb
 C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Web\bin\Debug\net6.0\ZedBlog.Entity.pdb
 C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Web\obj\Debug\net6.0\ZedBlog.Web.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Web\bin\Debug\net6.0\ZedBlog.Service.dll
+C:\Users\User\Documents\GitHub\ZedBlog\ZedBlog\ZedBlog.Web\bin\Debug\net6.0\ZedBlog.Service.pdb

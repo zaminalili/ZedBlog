@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ZedBlog.Data\ZedBlog.Data.csproj" />
+    <ProjectReference Include="..\ZedBlog.Service\ZedBlog.Service.csproj" />
   </ItemGroup>
 
 </Project>

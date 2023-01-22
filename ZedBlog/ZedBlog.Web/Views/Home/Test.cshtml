@@ -1,0 +1,10 @@
+﻿
+@model List<Blog>
+
+<h1>Test</h1>
+
+@foreach (var item in Model)
+{
+	<h3>@item.Title</h3>
+	<p>@item.Content</p>
+}
