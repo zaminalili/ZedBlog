@@ -24,4 +24,8 @@
     <ProjectReference Include="..\ZedBlog.Service\ZedBlog.Service.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Areas\Admin\Models\" />
+  </ItemGroup>
+
 </Project>
