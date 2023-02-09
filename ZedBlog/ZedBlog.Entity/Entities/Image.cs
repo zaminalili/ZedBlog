@@ -8,5 +8,6 @@ namespace ZedBlog.Entity.Entities
         public string fileType { get; set; }
 
         public ICollection<Blog> Blogs { get; set; }
+        public ICollection<AppUser> Users { get; set; }
     }
 }
