@@ -12,7 +12,7 @@ using ZedBlog.Data.Context;
 namespace ZedBlog.Data.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20230209130313_mig1")]
+    [Migration("20230211055316_mig1")]
     partial class mig1
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

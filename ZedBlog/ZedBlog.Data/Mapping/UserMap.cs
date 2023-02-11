@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using ZedBlog.Entity.Entities;
 
@@ -41,6 +42,33 @@ namespace ZedBlog.Data.Mapping
 
             // Each User can have many entries in the UserRole join table
             builder.HasMany<AppUserRole>().WithOne().HasForeignKey(ur => ur.UserId).IsRequired();
+
+
+            //var admin = new AppUser
+            //{
+            //    Id = Guid.Parse("660e6282-5226-48f0-9acf-40550889c16b"),
+            //    UserName = "zamin@mail.com",
+            //    NormalizedUserName = "ZAMIN@MAIL.COM",
+            //    Email = "zamin@mail.com",
+            //    NormalizedEmail = "ZAMIN@MAIL.COM",
+            //    PhoneNumber = "505578212",
+            //    FirsName = "Zamin",
+            //    LastName = "Alili",
+            //    PhoneNumberConfirmed = true,
+            //    EmailConfirmed = true,
+            //    SecurityStamp = Guid.NewGuid().ToString()
+            //};
+
+            //admin.PasswordHash = CreatePasswordHash(admin,
+            //    "Zamin2003");
+                
         }
+
+        //private string CreatePasswordHash(AppUser user, string password)
+        //{
+        //    var passwordHasher = new PasswordHasher<AppUser>();
+
+        //    return passwordHasher.HashPassword(user, password);
+        //}
     }
 }

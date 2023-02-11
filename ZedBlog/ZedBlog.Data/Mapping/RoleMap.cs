@@ -32,6 +32,17 @@ namespace ZedBlog.Data.Mapping
 
             // Each Role can have many associated RoleClaims
             builder.HasMany<AppRoleClaim>().WithOne().HasForeignKey(rc => rc.RoleId).IsRequired();
+
+            //builder.HasData(
+            //        new AppRole
+            //        {
+            //            Id = Guid.Parse("d570bcc7-d4ed-499a-bb45-9a20ebbdffcb"),
+            //            Name = "Admin",
+            //            NormalizedName = "ADMIN",
+            //            ConcurrencyStamp = Guid.NewGuid().ToString()
+            //        }
+                
+            //    );
         }
     }
 }
